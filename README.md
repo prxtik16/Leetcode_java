@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prxtik16/Leetcode_java/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/prxtik16/Leetcode_java/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prxtik16/Leetcode_java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/prxtik16/Leetcode_java/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prxtik16/Leetcode_java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
