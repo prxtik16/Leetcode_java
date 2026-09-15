@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/prxtik16/Leetcode_java/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/prxtik16/Leetcode_java/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/prxtik16/Leetcode_java/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/prxtik16/Leetcode_java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prxtik16/Leetcode_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/prxtik16/Leetcode_java/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
