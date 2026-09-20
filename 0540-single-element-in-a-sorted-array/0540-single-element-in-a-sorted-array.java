@@ -1,12 +1,12 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        HashMap<Integer,Integer> freq=new HashMap<>();
-        for(int num:nums){
-            freq.put(num,freq.getOrDefault(num,0)+1);
+        int low=0, high=nums.length-1;
+        while(high>low){
+            int mid=low+(high-low)/2;
+            if(mid%2!=0) mid--;
+            if(nums[mid]==nums[mid+1]) low=mid+2;
+            else high=mid;
         }
-        for(int key:freq.keySet()){
-            if(freq.get(key)==1) return key;
-        }
-        return -1;
+        return nums[high];
     }
 }
